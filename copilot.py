@@ -35,8 +35,8 @@ class Copilot:
         self.llm_client = OpenAI(api_key = key)
         
         self.system_prompt = """
-            You are an expert on Columbia University and your job is to answer questions 
-            about the university.
+            You are an expert on New York State Driver's Manual and your job is to answer questions 
+            about the written test to obtain a driver's license in New York State.
         """
 
     def ask(self, question, messages):
@@ -51,8 +51,8 @@ class Copilot:
 
             The retrived information is: {retrieved_info}
 
-            Please answer the question based on the retrieved information. If the question is not related to Columbia University, 
-            please tell the user and ask for a question related to Columbia University.
+            Please answer the question based on the retrieved information. If the question is not related to driving in New York State, 
+            please tell the user and ask for a question related to driving in New York State.
 
             Please highlight the information with bold text and bullet points.
         """
