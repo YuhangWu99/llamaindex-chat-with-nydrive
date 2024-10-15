@@ -1,6 +1,6 @@
-# 🦙📚 Columbia Copilot
+# 🦙📚 NYDrive Test Copilot
 
-Columbia Copilot is an AI-powered chatbot designed to answer questions about Columbia University. It leverages the capabilities of OpenAI's GPT-4o and LlamaIndex to provide accurate and contextually relevant responses based on the data it has been trained on.
+NYDrive Test Copilot is an AI-powered chatbot designed to answer questions about driving in New York State. It leverages the capabilities of OpenAI's GPT-4o and LlamaIndex to provide accurate and contextually relevant responses based on the data it has been trained on.
 
 ## Overview of the App
 
