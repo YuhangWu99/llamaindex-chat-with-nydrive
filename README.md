@@ -10,7 +10,7 @@ NYDrive Test Copilot is an AI-powered chatbot designed to answer questions about
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llamaindex-chat-with-student-handbook-8tp48eikcchw2w9g9fvmsj.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llamaindex-chat-with-nydrive.streamlit.app/)
 
 ## Run the app locally
 
